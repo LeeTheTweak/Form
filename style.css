@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	width: 100%;
+	margin: 0 auto;
+}
+#formDiv {
+	width: 350px;
+	background-color: #26140E;
+	border-radius: 5px;
+	color: white;
+	overflow: auto;
+	padding: 5px;
+	margin: auto;
+	margin-top: 20%;
+	border: 5px double #006DFD;
+	border-width: 15px;
+}
+#head {
+	text-align: center;
+}
+#selectPackageSentence {
+	
+}
+#selection {
+	float: right;
+	width: 150px;
+	margin-top: 5px;
+}
+.theNextButton {
+	float: right;
+	width: 50px;
+	height: 30px;
+	background-color: #F00;
+	color: white;
+	border: none;
+	border-radius: 10px;
+}
+.nextButtonOnHover {
+	background-color: #F99;
+	float: right;
+	width: 50px;
+	height: 30px;
+	color: white;
+	border: none;
+	border-radius: 10px;
+}
+.lineup{
+	display: inline;
+}
